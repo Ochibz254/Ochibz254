@@ -1,8 +1,8 @@
-- Hi, I’m @elistonerxx
--  I’m interested in ML..
+- Hi, I’m Elly
+-  I’m interested in ML,AI and Data in General.
    I’m currently learning Data Science
--  How to reach me elliotieno18@gmail.com
-   .
+   reach me through  elliotieno18@gmail.com
+  Lets connect! .
 
 <!---
 Ochibz254/Ochibz254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
